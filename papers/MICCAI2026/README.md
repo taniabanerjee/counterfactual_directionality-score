@@ -31,7 +31,7 @@ If you use this work, please cite:
 ```bibtex
 @inproceedings{CDS_MICCAI_2026,
   title     = {Counterfactual Directionality Score for Directional Cell--Cell Influence Analysis in Spatial Transcriptomics},
-  author    = {1.	H. Anzum, V. Kochat, S. Satpati, M. I. Mahmud, J. M. R. Dwarampudi, P. Shukla, M. Javle, L. Kwong, K. Rai, T. Banerjee},
+  author    = {H. Anzum, V. Kochat, S. Satpati, M. I. Mahmud, J. M. R. Dwarampudi, P. Shukla, M. Javle, L. Kwong, K. Rai, T. Banerjee},
   booktitle = {Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
   year      = {2026}
 }
