@@ -38,7 +38,6 @@ digital-twin-spatial-transcriptomics/
 │
 ├── papers/
 │   ├── MICCAI2026/
-│   ├── NeurIPS2026/
 │   └── JournalExtensions/
 │
 ├── code/
